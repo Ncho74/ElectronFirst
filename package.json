@@ -1,0 +1,17 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "\"Operantic formation on git with electronjs project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
